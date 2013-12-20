@@ -1,0 +1,6 @@
+[submodule "examples/jumpnrun/serv"]
+	path = examples/jumpnrun/serv
+	url = git@github.com:Manic0892/python-impact.git
+[submodule "examples/supercollider/serv"]
+	path = examples/supercollider/serv
+	url = git@github.com:Manic0892/python-impact.git
